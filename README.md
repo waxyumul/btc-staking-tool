@@ -1,4 +1,4 @@
-# Readme
+king is back (kingtaxmax is wax)# Readme
 
 This repository contains TypeScript/JavaScript samples to compose the `stake` and `redeem` transactions on Bitcoin network. The targeted readers should have knowledge on Bitcoin transaction formats and are familiar with TS/JS programming languages. 
 
